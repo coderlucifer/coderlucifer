@@ -33,14 +33,7 @@ I'm a 3rd-year **AI & Data Science student** specializing in Full-Stack Engineer
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.amithv.vercel.app/api?username=coderlucifer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&v=2" alt="Husain's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.amithv.vercel.app/api/top-langs/?username=coderlucifer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&v=2" alt="Husain's Top Languages" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=coderlucifer&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="Husain's GitHub Streak" />
+  <img src="https://metrics.lecoq.io/coderlucifer?template=classic&base.header=false&base.activity=true&base.repositories=true&base.metadata=true&config.timezone=Asia%2FKolkata" alt="Husain's GitHub Metrics" />
 </div>
 
 ---
