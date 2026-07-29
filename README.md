@@ -45,7 +45,7 @@ I'm a 3rd-year **AI & Data Science student** specializing in Full-Stack Engineer
 ### 📫 Let's Connect!
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME_HERE"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/husain-dudhiya-a991a8290img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:husaindudhiya2108@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME_HERE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://leetcode.com/u/lucifer2108"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/></a>
 </div>
