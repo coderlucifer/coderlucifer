@@ -1,10 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Husain!%20%F0%9F%91%8B&fontSize=50&fontAlignY=35&desc=AI%20%26%20Full-Stack%20Engineer&descAlignY=55" width="100%" />
+  <img src="header.png" alt="Husain's Header" width="100%" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Engineer;Full-Stack+Developer;Agentic+RAG+%26+Deep+Learning;Competitive+Programmer" alt="Typing SVG" />
   </a>
 </div>
+
 
 ---
 
