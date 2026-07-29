@@ -30,11 +30,7 @@ I'm a 3rd-year **AI & Data Science student** specializing in Full-Stack Engineer
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://metrics.lecoq.io/coderlucifer?template=classic&base.header=false&base.activity=true&base.repositories=true&base.metadata=true&config.timezone=Asia%2FKolkata" alt="Husain's GitHub Metrics" />
-</div>
 
 ---
 
