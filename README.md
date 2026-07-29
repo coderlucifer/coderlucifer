@@ -1,11 +1,10 @@
 <div align="center">
-  <img src="header.png" alt="Husain's Header" width="100%" />
+  <img src="header.png" alt="Profile Header" width="100%" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Engineer;Full-Stack+Developer;Agentic+RAG+%26+Deep+Learning;Competitive+Programmer" alt="Typing SVG" />
   </a>
 </div>
-
 
 ---
 
@@ -34,14 +33,14 @@ I'm a 3rd-year **AI & Data Science student** specializing in Full-Stack Engineer
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coderlucifer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" alt="Husain's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderlucifer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" alt="Husain's Top Languages" width="48%" />
+  <img src="https://github-readme-stats.amithv.vercel.app/api?username=coderlucifer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&v=2" alt="Husain's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.amithv.vercel.app/api/top-langs/?username=coderlucifer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&v=2" alt="Husain's Top Languages" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderlucifer&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="Husain's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=coderlucifer&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="Husain's GitHub Streak" />
 </div>
 
 ---
